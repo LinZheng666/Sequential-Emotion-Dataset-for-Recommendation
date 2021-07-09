@@ -1,2 +1,2 @@
 # Sequential-Emotion-Dataset-for-Recommendation
- that is, 1,529 videos of the valid users' facial expressions when they were watching the random selected movie clips.
+A dataset that contains users’ continuous emotions for general recommendation tasks, such as rating prediction and item recommendation.

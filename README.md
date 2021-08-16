@@ -4,7 +4,7 @@ The Sequential EMotion-Aware Recommendation (SEMAR) dataset, which contains thre
 ###### [Citation] ######
 If you use SEMAR dataset for your research work, please cite the following paper:
 
-[1] Weihao Chen, Lin Zheng, and Dazhi Jiang. 2021. Sequential emotion-aware recommendation: A preliminary study on data acquisition and modeling, Journal of Physics: Conference Series 1995 (2021) 012016. URL: https://doi.org/10.1088/1742-6596/1995/1/012016.doi:10.1088/1742-6596/1995/1/012016.
+[1] Weihao Chen, Lin Zheng, and Dazhi Jiang. 2021. Sequential emotion-aware recommendation: A preliminary study on data acquisition and modeling, Journal of Physics: Conference Series 1995 (2021) 012016. URL: https://doi.org/10.1088/1742-6596/1995/1/012016.
 
 Bibtex entry:
 

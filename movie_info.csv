@@ -1,0 +1,258 @@
+movie_clip_id,cate_clip_id,movie_name,cate_genre
+112,Cate0100001,YeWen,action
+22,Cate0100002,YeWen,action
+231,Cate0100003,YeWen,action
+168,Cate0100004,YeWen,action
+100,Cate0100005,YeWen,action
+186,Cate0100006,YeWen,action
+114,Cate0100007,YeWen,action
+0,Cate0100008,YeWen,action
+111,Cate0100009,YeWen,action
+153,Cate0100010,YeWen,action
+229,Cate0100011,YeWen,action
+218,Cate0100012,YeWen,action
+44,Cate0100013,Fight Club,action
+32,Cate0100014,Dragon Blade ,action
+173,Cate0100015,Hot Fuzz,action
+80,Cate0100016,Hot Fuzz,action
+206,Cate0100017,The Raid 2,action
+88,Cate0100018,The Raid 2,action
+93,Cate0100019,The Raid 2,action
+144,Cate0100020,The Raid 2,action
+98,Cate0100021,The Raid 2,action
+135,Cate0100022,The Raid 2,action
+182,Cate0100023,The Raid 2,action
+128,Cate0100024,The Raid 2,action
+176,Cate0100025,The Raid 2,action
+234,Cate0100026,The Raid 2,action
+10,Cate0100027,Brotherhood of Blades II,action
+239,Cate0100028,Brotherhood of Blades II,action
+224,Cate0100029,Brotherhood of Blades II,action
+154,Cate0100030,The Commuter ,action
+228,Cate0100031,The Commuter ,action
+179,Cate0100032,The Commuter ,action
+76,Cate0200001,The Pursuit of Happyness,inspiration
+125,Cate0200002,The Pursuit of Happyness,inspiration
+43,Cate0200003,The Pursuit of Happyness,inspiration
+72,Cate0200004,Million Dollar Baby,inspiration
+134,Cate0200005,Million Dollar Baby,inspiration
+6,Cate0200006,Million Dollar Baby,inspiration
+132,Cate0200007,Million Dollar Baby,inspiration
+90,Cate0200008,Million Dollar Baby,inspiration
+21,Cate0200009,Rita Hayworth and Shawshank Redemption ,inspiration
+54,Cate0200010,Rita Hayworth and Shawshank Redemption ,inspiration
+120,Cate0200011,Forrest Gump,inspiration
+13,Cate0200012,Forrest Gump,inspiration
+174,Cate0200013,Forrest Gump,inspiration
+34,Cate0200014,Forrest Gump,inspiration
+62,Cate0200015,Forrest Gump,inspiration
+113,Cate0200016,Homeless to Harvard: The Liz Murray Story,inspiration
+109,Cate0300001,King of comedy ,comedy
+194,Cate0300002,kungFu Hustle,comedy
+165,Cate0300003,kungFu Hustle,comedy
+115,Cate0300004,kungFu Hustle,comedy
+210,Cate0300005,kungFu Hustle,comedy
+160,Cate0300006,The New King of comedy ,comedy
+169,Cate0300007,The New King of comedy ,comedy
+28,Cate0300008,The New King of comedy ,comedy
+42,Cate0300009,The New King of comedy ,comedy
+156,Cate0300010,The New King of comedy ,comedy
+33,Cate0300011,The New King of comedy ,comedy
+15,Cate0300012,The New King of comedy ,comedy
+244,Cate0300013,The New King of comedy ,comedy
+190,Cate0300014,The New King of comedy ,comedy
+181,Cate0300015,Crazy Alien,comedy
+216,Cate0300016,Crazy Alien,comedy
+227,Cate0300017,Crazy Alien,comedy
+87,Cate0300018,Crazy Alien,comedy
+130,Cate0300019,Crazy Alien,comedy
+235,Cate0300020,Crazy Alien,comedy
+68,Cate0300021,The Mermaid,comedy
+103,Cate0300022,The Mermaid,comedy
+230,Cate0300023,The Mermaid,comedy
+161,Cate0300024,The Mermaid,comedy
+215,Cate0300025,Never Say Die,comedy
+191,Cate0300026,Never Say Die,comedy
+152,Cate0300027,Never Say Die,comedy
+197,Cate0300028,Never Say Die,comedy
+96,Cate0300029,Never Say Die,comedy
+121,Cate0300030,Hello Mr. Billionaire ,comedy
+136,Cate0300031,Hello Mr. Billionaire ,comedy
+3,Cate0300032,Hello Mr. Billionaire ,comedy
+66,Cate0300033,Pegasus,comedy
+92,Cate0300034,Pegasus,comedy
+146,Cate0400001,The Nun,horror
+105,Cate0400002,The Nun,horror
+131,Cate0400003,The Nun,horror
+245,Cate0400004,unknown,horror
+246,Cate0400005,unknown,horror
+247,Cate0400006,unknown,horror
+5,Cate0400007,unknown,horror
+248,Cate0400008,unknown,horror
+117,Cate0400009,ZhenZi,horror
+249,Cate0400010,unknown,horror
+250,Cate0400011,unknown,horror
+47,Cate0400012,unknown,horror
+251,Cate0400013,unknown,horror
+252,Cate0400014,unknown,horror
+38,Cate0400015,Silent Hill,horror
+53,Cate0400016,Silent Hill,horror
+26,Cate0400017,Silent Hill,horror
+141,Cate0400018,Silent Hill,horror
+75,Cate0400019,Silent Hill,horror
+14,Cate0400020,Silent Hill,horror
+180,Cate0400021,Silent Hill,horror
+70,Cate0500001,Se7ven,suspense
+143,Cate0500002,Mo seung ,suspense
+81,Cate0500003,Legend Of The Demon Cat ,suspense
+11,Cate0500004,Catch Me If You Can,suspense
+151,Cate0500005,Catch Me If You Can,suspense
+107,Cate0500006,Catch Me If You Can,suspense
+138,Cate0500007,Shutter Island,suspense
+56,Cate0500008,Shutter Island,suspense
+31,Cate0500009,Shutter Island,suspense
+23,Cate0500010,Shutter Island,suspense
+7,Cate0500011,Mulholland Dr.,suspense
+99,Cate0500012,Mulholland Dr.,suspense
+172,Cate0500013,Memento,suspense
+155,Cate0500014,Memento,suspense
+65,Cate0500015,Memento,suspense
+166,Cate0600001,Alien,thriller
+104,Cate0600002,Alien,thriller
+82,Cate0600003,Alien,thriller
+213,Cate0600004,Alien,thriller
+158,Cate0600005,Alien,thriller
+185,Cate0600006,The Texas Chainsaw Massacre,thriller
+39,Cate0600007,The Texas Chainsaw Massacre,thriller
+118,Cate0600008,The Texas Chainsaw Massacre,thriller
+97,Cate0600009,The Texas Chainsaw Massacre,thriller
+50,Cate0600010,The Texas Chainsaw Massacre,thriller
+30,Cate0600011,The Thing,thriller
+89,Cate0600012,The Thing,thriller
+71,Cate0600013,The Thing,thriller
+79,Cate0600014,The Thing,thriller
+175,Cate0600015,Resident Evil,thriller
+170,Cate0600016,Resident Evil,thriller
+237,Cate0600017,Saw 2,thriller
+212,Cate0600018,Saw 2,thriller
+129,Cate0600019,Saw 2,thriller
+12,Cate0600020,Saw 2,thriller
+201,Cate0600021,Saw 3,thriller
+24,Cate0600022,Saw 3,thriller
+207,Cate0600023,Saw 3,thriller
+110,Cate0600024,Saw 3,thriller
+221,Cate0600025,Saw 3,thriller
+57,Cate0600026,Saw 3,thriller
+61,Cate0600027,Saw 3,thriller
+214,Cate0600028,Saw 3,thriller
+233,Cate0600029,Train to Busan ,thriller
+4,Cate0600030,Train to Busan ,thriller
+51,Cate0700001,Glory ,war
+55,Cate0700002,Glory ,war
+157,Cate0700003,Glory ,war
+67,Cate0700004,Glory ,war
+77,Cate0700005,Enemy at the Gates ,war
+74,Cate0700006,Enemy at the Gates ,war
+36,Cate0700007,Brotherhood Of War,war
+162,Cate0700008,Brotherhood Of War,war
+2,Cate0700009,Brotherhood Of War,war
+41,Cate0700010,Brotherhood Of War,war
+127,Cate0700011,300,war
+209,Cate0700012,Midway,war
+84,Cate0700013,Genghis Khan ,war
+171,Cate0700014,Assembly,war
+119,Cate0700015,Assembly,war
+204,Cate0700016,Assembly,war
+19,Cate0700017,Assembly,war
+108,Cate0700018,Assembly,war
+242,Cate0700019,Black Hawk Down ,war
+145,Cate0700020,Black Hawk Down ,war
+225,Cate0700021,Black Hawk Down ,war
+137,Cate0700022,Black Hawk Down ,war
+25,Cate0800001,50 First Kisses ,affection
+187,Cate0800002,51 First Kisses ,affection
+183,Cate0800003,A Chinese Odyssey:Love Of Eternity ,affection
+1,Cate0800004,A Chinese Odyssey:Love Of Eternity ,affection
+123,Cate0800005,The Unbearable Lightness of Being ,affection
+78,Cate0800006,Flipped,affection
+178,Cate0800007,Flipped,affection
+18,Cate0800008,unknown,affection
+45,Cate0800009,Titanic ,affection
+49,Cate0800010,Titanic ,affection
+94,Cate0800011,Before Sunrise ,affection
+59,Cate0800012,Before Sunrise ,affection
+35,Cate0800013,Before Sunset,affection
+101,Cate0800014,Before Sunset,affection
+83,Cate0800015,You Are the Apple of My Eye ,affection
+241,Cate0900001,Transformers,science fiction
+253,Cate0900002,Transformers,science fiction
+69,Cate0900003,Transformers,science fiction
+116,Cate0900004,AI,science fiction
+238,Cate0900005,AI,science fiction
+195,Cate0900006,AI,science fiction
+236,Cate0900007,AI,science fiction
+254,Cate0900008,AI,science fiction
+211,Cate0900009,Tron: Legacy ,science fiction
+202,Cate0900010,Tron: Legacy ,science fiction
+184,Cate0900011,Tron: Legacy ,science fiction
+200,Cate0900012,Tron: Legacy ,science fiction
+164,Cate0900013,Interstellar ,science fiction
+189,Cate0900014,Interstellar ,science fiction
+64,Cate0900015,Interstellar ,science fiction
+122,Cate0900016,Interstellar ,science fiction
+106,Cate0900017,The Wandering Earth,science fiction
+255,Cate0900018,The Wandering Earth,science fiction
+243,Cate0900019,The Wandering Earth,science fiction
+205,Cate0900020,Annihilation,science fiction
+256,Cate0900021,Annihilation,science fiction
+48,Cate0900022,Annihilation,science fiction
+217,Cate0900023,Pacific Rim ,science fiction
+139,Cate0900024,Pacific Rim ,science fiction
+58,Cate0900025,Pacific Rim ,science fiction
+37,Cate0900026,Pacific Rim ,science fiction
+232,Cate0900027,Pacific Rim ,science fiction
+240,Cate0900028,Pacific Rim ,science fiction
+16,Cate0900029,Pacific Rim ,science fiction
+167,Cate0900030,Pacific Rim ,science fiction
+177,Cate0900031,Pacific Rim ,science fiction
+163,Cate0900032,District 9 ,science fiction
+193,Cate0900033,District 10 ,science fiction
+226,Cate0900034,District 11 ,science fiction
+126,Cate0900035,Lucy ,science fiction
+219,Cate0900036,Lucy ,science fiction
+46,Cate0900037,Lucy ,science fiction
+150,Cate0900038,Lucy ,science fiction
+86,Cate0900039,Lucy ,science fiction
+203,Cate0900040,Lucy ,science fiction
+220,Cate0900041,Alita: Battle Angel ,science fiction
+8,Cate0900042,Alita: Battle Angel ,science fiction
+20,Cate0900043,Alita: Battle Angel ,science fiction
+192,Cate0900044,Arrival ,science fiction
+208,Cate0900045,Arrival ,science fiction
+159,Cate0900046,Arrival ,science fiction
+142,Cate0900047,The Matrix ,science fiction
+147,Cate0900048,The Matrix ,science fiction
+222,Cate0900049,The Matrix ,science fiction
+40,Cate1000001,Pirates of the Caribbean,fantasy
+73,Cate1000002,Pirates of the Caribbean,fantasy
+133,Cate1000003,Pirates of the Caribbean,fantasy
+91,Cate1000004,Harry Potter,fantasy
+52,Cate1000005,Harry Potter,fantasy
+188,Cate1000006,The House with a Clock in its Walls ,fantasy
+60,Cate1000007,The House with a Clock in its Walls ,fantasy
+196,Cate1000008,Alice in Wonderland ,fantasy
+63,Cate1000009,Alice in Wonderland ,fantasy
+223,Cate1000010,Alice in Wonderland ,fantasy
+95,Cate1000011,Alice in Wonderland ,fantasy
+27,Cate1000012,Alice in Wonderland ,fantasy
+9,Cate1000013,Alice in Wonderland ,fantasy
+140,Cate1000014,Painted Skin ,fantasy
+199,Cate1000015,Fantastic Beasts and Where to Find Them ,fantasy
+85,Cate1000016,Fantastic Beasts and Where to Find Them ,fantasy
+198,Cate1000017,The Knight of Shadows: Between Yin and Yang,fantasy
+148,Cate1000018,The Knight of Shadows: Between Yin and Yang,fantasy
+29,Cate1000019,The Knight of Shadows: Between Yin and Yang,fantasy
+124,Cate1000020,The Hobbit ,fantasy
+17,Cate1000021,The Hobbit ,fantasy
+102,Cate1000022,The Hobbit ,fantasy
+149,Cate1000023,The Hobbit ,fantasy
